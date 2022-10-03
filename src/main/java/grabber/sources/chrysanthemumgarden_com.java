@@ -17,7 +17,7 @@ import java.util.List;
 
 public class chrysanthemumgarden_com implements Source {
     private final String name = "Chrysanthemum Garden";
-    private final String url = "https://chrysanthemumgarden.com";
+    private final String url = "https://web.archive.org/web/20211010193113/https://chrysanthemumgarden.com/";
     private HashMap<String, String> charMap;
     private final boolean canHeadless = false;
     private Novel novel;
